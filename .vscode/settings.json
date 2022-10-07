@@ -1,0 +1,4 @@
+{
+  "python.autoComplete.extraPaths": ["C:/Users/whan/.virtualenvs/terraform-azure-winston-sandbox-cdk-02N_Jptb/Lib/site-packages"],
+  "python.analysis.extraPaths": ["C:/Users/whan/.virtualenvs/terraform-azure-winston-sandbox-cdk-02N_Jptb/Lib/site-packages"]
+}
