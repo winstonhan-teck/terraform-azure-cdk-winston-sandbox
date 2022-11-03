@@ -9,4 +9,4 @@ python_version = "3"
 [packages]
 cdktf = "~=0.13.0.dev44"
 pytest = "*"
-cdktf-cdktf-provider-azurerm = "~=3.0.2"
+cdktf-cdktf-provider-azurerm = "~=3.0.12"
